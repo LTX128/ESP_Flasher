@@ -1,0 +1,101 @@
+====================================================================
+BRUCE ESP FLASH LIST
+====================================================================
+
+CTRL + F
+
+======================== M5STACK SERIES ========================
+
+Bruce-m5stack-cplus2 Board : M5Stack C Plus 2 Chip : ESP32
+
+Bruce-m5stack-cplus1_1 Board : M5Stack C Plus / C Plus 1.1 Chip : ESP32
+
+Bruce-m5stack-sticks3 Board : M5Stick C S3 Chip : ESP32-S3
+
+Bruce-m5stack-core2 Board : M5Stack Core2 Chip : ESP32
+
+Bruce-m5stack-core4mb Board : M5Stack Core (4MB) Chip : ESP32
+
+Bruce-m5stack-core16mb Board : M5Stack Core (16MB) Chip : ESP32
+
+Bruce-m5stack-cores3 Board : M5Stack Core S3 Chip : ESP32-S3
+
+Bruce-m5stack-cardputer Board : M5Stack Cardputer Chip : ESP32-S3
+
+======================== LILYGO / TTGO SERIES ========================
+
+Bruce-lilygo-t-display-ttgo Board : LilyGO TTGO T-Display Chip : ESP32
+
+Bruce-lilygo-t-display-s3 Board : LilyGO T-Display S3 Chip : ESP32-S3
+
+Bruce-lilygo-t-display-S3-pro Board : LilyGO T-Display S3 Pro Chip : ESP32-S3
+
+Bruce-lilygo-t-display-s3-touch Board : LilyGO T-Display S3 Touch Chip : ESP32-S3
+
+Bruce-lilygo-t-display-s3-touch-mmc Board : LilyGO T-Display S3 Touch + MMC Chip : ESP32-S3
+
+Bruce-lilygo-t-display-s3-mmc Board : LilyGO T-Display S3 + MMC Chip : ESP32-S3
+
+Bruce-lilygo-t-embed Board : LilyGO T-Embed Chip : ESP32-S3
+
+Bruce-lilygo-t-embed-cc1101 Board : LilyGO T-Embed CC1101 Chip : ESP32-S3
+
+Bruce-lilygo-t-deck Board : LilyGO T-Deck Chip : ESP32-S3
+
+Bruce-lilygo-t-deck-pro Board : LilyGO T-Deck Pro Chip : ESP32-S3
+
+Bruce-lilygo-t-watch-s3 Board : LilyGO T-Watch S3 Chip : ESP32-S3
+
+Bruce-lilygo-t-hmi Board : LilyGO T-HMI Chip : ESP32-S3
+
+Bruce-lilygo-t-lora-pager Board : LilyGO LoRa Pager Chip : ESP32-S3
+
+======================== CYD (CHEAP YELLOW DISPLAY) ========================
+
+Bruce-CYD-2432S028 Board : CYD 2.8” 240x320 (S028) Chip : ESP32
+
+Bruce-CYD-2432W328C Board : CYD 2.8” 240x320 (W328C) Chip : ESP32
+
+Bruce-CYD-2432W328C_2 Board : CYD 2.8” 240x320 (W328C v2) Chip : ESP32
+
+Bruce-CYD-2432W328R-or-S024R Board : CYD 2.8” 240x320 (W328R / S024R) Chip : ESP32
+
+Bruce-CYD-2USB Board : CYD Dual USB Chip : ESP32
+
+Bruce-CYD-3248S035C Board : CYD 3.5” 320x480 (S035C) Chip : ESP32
+
+Bruce-CYD-3248S035R Board : CYD 3.5” 320x480 (S035R) Chip : ESP32
+
+======================== MARAUDER / OTHER BOARDS ========================
+
+Bruce-Marauder-Mini Board : Marauder Mini Chip : ESP32
+
+Bruce-Marauder-V4-V6 Board : Marauder V4 / V6 Chip : ESP32
+
+Bruce-Marauder-v61 Board : Marauder v6.1 Chip : ESP32
+
+Bruce-Marauder-v7 Board : Marauder v7 Chip : ESP32-S3
+
+Bruce-Awok-Mini Board : Awok Mini Chip : ESP32
+
+Bruce-Awok-Touch Board : Awok Touch Chip : ESP32
+
+Bruce-Phantom_S024R Board : Phantom S024R Chip : ESP32
+
+Bruce-WaveSentry-R1 Board : WaveSentry R1 Chip : ESP32
+
+Bruce-reaper Board : Reaper Board Chip : ESP32
+
+Bruce-smoochiee-board Board : Smoochiee Board Chip : ESP32
+
+======================== GENERIC ESP BOARDS ========================
+
+Bruce-esp32-c5 Board : ESP32-C5 (no TFT) Chip : ESP32-C5
+
+Bruce-esp32-c5-tft Board : ESP32-C5 + TFT Chip : ESP32-C5
+
+Bruce-esp32-s3-devkitc-1 Board : ESP32-S3 DevKitC-1 Chip : ESP32-S3
+
+====================================================================
+
+By LTX
