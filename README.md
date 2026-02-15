@@ -1,13 +1,13 @@
 # ESP Flasher 🚀
 
 ## ✨ Features
-• 🔍 Auto-detection of boards (port, chip, MAC, flash size)
-• 📥 Drag & drop .bin files for instant flashing
-• ⚙️ Advanced options: erase, OTA, automatic backup
-• 📡 Serial monitor (ASCII/HEX) with command sending
-• 💾 Backup management & flash history
-• 🎨 Modern dark UI with violet/blue theme & animations
-• ⚙️ Fully customizable settings
+ • 🔍 Auto-detection of boards (port, chip, MAC, flash size)
+ • 📥 Drag & drop .bin files for instant flashing
+ • ⚙️ Advanced options: erase, OTA, automatic backup
+ • 📡 Serial monitor (ASCII/HEX) with command sending
+ • 💾 Backup management & flash history
+ • 🎨 Modern UI
+ • ⚙️ Fully customizable settings
 
 ## 📋 Requirements
 • Windows 10/11
