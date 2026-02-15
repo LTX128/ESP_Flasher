@@ -5,9 +5,9 @@ cls
 
 ping -n 2 127.0.0.1 >nul
 
-echo ====================
-echo Only for ESP !!!
-echo ====================
+echo =======================
+echo     Only for ESP !!!
+echo =======================
 echo.
 
 ping -n 3 127.0.0.1 >nul
@@ -15,7 +15,7 @@ ping -n 3 127.0.0.1 >nul
 cls
 
 echo ==================================
-echo        .BIN_FLASHER
+echo         ESP_FLASHER
 echo            Setup
 echo            by LTX
 echo ==================================
@@ -58,5 +58,6 @@ ping -n 3 127.0.0.1 >nul
 echo.
 
 start start.bat
+
 
 exit
