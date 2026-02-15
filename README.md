@@ -49,3 +49,8 @@ A powerful and intuitive GUI suite for flashing ESP8266 & ESP32 series chips. Ch
    ```bash
    start.bat
    ```
+Professional ESP Development Tools
+
+---
+
+⭐ Don't forget to star the repo if you like this tool!
